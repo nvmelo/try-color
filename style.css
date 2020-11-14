@@ -1,0 +1,6 @@
+.ball {
+  border-radius: 50%;
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+}
