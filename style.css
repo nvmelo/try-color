@@ -4,3 +4,7 @@
   height: 60px;
   width: 60px;
 }
+
+.score {
+  display: inline;
+}
